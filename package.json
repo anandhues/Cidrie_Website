@@ -1,0 +1,27 @@
+{
+  "name": "project-cidrie-pmb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+   
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aarsha01/project-cidrie-pmb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aarsha01/project-cidrie-pmb/issues"
+  },
+  "homepage": "https://github.com/aarsha01/project-cidrie-pmb#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "express.js": "^1.0.0",
+    "firebase": "^9.17.2",
+    "nodemon": "^2.0.21"
+  }
+}
